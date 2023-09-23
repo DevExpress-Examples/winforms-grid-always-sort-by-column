@@ -33,6 +33,10 @@ void gridView1_StartSorting(object sender, EventArgs e) {
 ```
 
 
+## Documentation
+
+* [Data Sorting - WinForms Data Grid](https://docs.devexpress.com/WindowsForms/3499/controls-and-libraries/data-grid/sorting)
+
 ## Files to Reivew
 
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
